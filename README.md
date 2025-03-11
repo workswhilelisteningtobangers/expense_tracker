@@ -19,5 +19,5 @@ A simple, offline expense tracking app built with Flutter. This app allows users
 ## 🛠️ How to Run the App
 1. **Clone the repository:**
    ```sh
-  ## git clone https://github.com/YOUR_USERNAME/ExpenseTracker.git
+  ## git clone https://github.com/workswhilelisteningtobangers/ExpenseTracker.git
 
